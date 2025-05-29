@@ -36,7 +36,11 @@ cd Object-detection-AI-team
 ```bash
 pip install -r requirements.txt
 ```
-3. **Add yourself to README**
+3. **Run setup script**
+```bash
+python scripts/setup_project.py
+```
+4. **Add yourself to README**
 - Update the team members section
 - Create a pull request with this change
 
