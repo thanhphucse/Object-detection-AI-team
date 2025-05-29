@@ -1,10 +1,10 @@
 # AI Team Project
 
 ## Team Members
-- **[Nija Priya]** - [Role/Focus Area]
-- **[Ritanya]** - [Role/Focus Area] 
-- **[Santhiya V]** - [Role/Focus Area]
-- **[Yaazhini]** - [Role/Focus Area]
+- **Nija Priya**   -   [Role/Focus Area]
+- **Ritanya**      -   [Role/Focus Area] 
+- **Santhiya V**   -   [Role/Focus Area]
+- **Yaazhini**     -   [Role/Focus Area]
 
 
 ## Current Progress
