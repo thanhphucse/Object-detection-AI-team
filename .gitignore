@@ -1,0 +1,57 @@
+#python
+pycache/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+#virtual environment
+venv/
+env/
+ENV/
+
+#IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+#Jupyter Notebook
+.ipynb_checkpoints
+
+#Data files
+*.csv
+*.json
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+#Model files
+*.pth
+*.pt
+*.h5
+*.pb
+*.onnx
+
+#Logs and outputs
+logs/
+*.log
+outputs/
+runs/
+wandb/
+
+#Environment variable
+.env
+
+#OS files
+.DS_Store
+Thumbs.db
+
+#Large files
+data/raw/
+models/large/
