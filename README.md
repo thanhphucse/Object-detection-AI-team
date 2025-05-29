@@ -1,10 +1,10 @@
 # AI Team Project
 
 ## Team Members
-- **[Member 1 Name]** - [Role/Focus Area]
-- **[Member 2 Name]** - [Role/Focus Area] 
-- **[Member 3 Name]** - [Role/Focus Area]
-- **[Member 4 Name]** - [Role/Focus Area]
+- **[Nija Priya]** - [Role/Focus Area]
+- **[Ritanya]** - [Role/Focus Area] 
+- **[Santhiya V]** - [Role/Focus Area]
+- **[Yaazhini]** - [Role/Focus Area]
 
 
 ## Current Progress
@@ -16,7 +16,7 @@
 - [ ] Documentation
 
 
-## Project Structure
+## Project Structure (after run scripts/setup_project.py)
 - **data/** - All data files (raw and processed)
 - **notebooks/** - Jupyter notebooks for exploration and experiments
 - **src/** - Source code modules
